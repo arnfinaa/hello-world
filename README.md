@@ -1,2 +1,3 @@
 # hello-world
-This repository is for testing out GitHub
+
+So, how about this GitHub-stuff, huh?
